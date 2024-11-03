@@ -1,0 +1,24 @@
+initialiser une list de avec tous ces "int",
+puis checker s'ils sont ok 
+
+
+
+Donc ca ce que je dois faire, 
+c'est creer un nouveau noeud avec data, puis le add back seulement s'il est pas egal a tous les precedent deja dans la list.
+
+
+SUPER
+
+donc la je peu creer ma list, je ne check pas encore pour les long et les lettres...
+
+mais a part cela, j'ai fait toutes les instructions possible, qui sont garde dans une list que je peux imprimer facilement 
+et qui est facile a free
+
+il me reste plus qu'a trouver un algo 
+(et un peu de parser).
+wouuuuuuuuu
+
+TRI:
+https://chatgpt.com/share/67226427-c56c-800b-8bcb-23c63113b0fa
+
+ 
